@@ -1,2 +1,2 @@
 #!/bin/bash
-ls > hello world
+git update-index
